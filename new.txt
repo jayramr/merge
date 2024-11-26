@@ -1,4 +1,9 @@
 Line 1
 Line 2
+<<<<<<< HEAD
 Line 3
 Line 4
+=======
+Feature line added
+Feature line B added
+>>>>>>> 35655c5 (Add feature B line on branch1)
